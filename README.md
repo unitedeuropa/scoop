@@ -1,1 +1,1 @@
-# scoop
+# scoop.cz
